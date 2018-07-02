@@ -21,6 +21,7 @@ zuul:
   routes: 
     mydept.serviceId: microservicecloud-dept
     mydept.path: /mydept/**
+  #原来访问
  
 info:
   app.name: atguigu-microcloud
